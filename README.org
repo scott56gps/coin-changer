@@ -1,0 +1,7 @@
+* Coin Changer
+This program helps you to organize your change.
+
+The program:
+- Reads coin data from a file
+- Writes coin data to a file
+- Prompts the user for coin data
